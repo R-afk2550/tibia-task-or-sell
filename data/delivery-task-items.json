@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Buckle",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 7000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Crystalline Armor",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 16000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Focus Cape",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 6000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Fur Armor",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 5000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Glacier Robe",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 11000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Glooth Cape",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 7000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Hibiscus Dress",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 3000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Lightning Robe",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 11000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Magma Coat",
+    "category": "armor",
+    "min_required": 25,
+    "max_required": 50,
+    "npc_buy_price": 11000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Skullcracker Armor",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 18000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Spellweaver's Robe",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 12000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Terra Mantle",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 11000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Zaoan Armor",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 14000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  },
+  {
+    "name": "Zaoan Robe",
+    "category": "armor",
+    "min_required": 10,
+    "max_required": 20,
+    "npc_buy_price": 12000,
+    "source": "https://tibia.fandom.com/wiki/Delivery_Task",
+    "notes": null
+  }
+]
