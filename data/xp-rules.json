@@ -1,0 +1,10 @@
+{
+  "formula": "xp = min(1995 * level, difficulty_cap)",
+  "base_multiplier": 1995,
+  "awarded_on": "task_completion",
+  "notes": [
+    "XP is awarded when the delivery task is completed.",
+    "Mastery tasks do not have an XP cap."
+  ],
+  "source": "https://tibia.fandom.com/wiki/Delivery_Task"
+}
