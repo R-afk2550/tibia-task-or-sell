@@ -1,0 +1,9 @@
+[
+  { "name": "Glacier Mask", "category": "Helmets", "npc_buy_price": 2500 },
+  { "name": "Lightning Headband", "category": "Helmets", "npc_buy_price": 2500 },
+  { "name": "Magma Monocle", "category": "Helmets", "npc_buy_price": 2500 },
+  { "name": "Rubber Cap", "category": "Helmets", "npc_buy_price": 11000 },
+  { "name": "Strange Helmet", "category": "Helmets", "npc_buy_price": 500 },
+  { "name": "Terra Hood", "category": "Helmets", "npc_buy_price": 2500 },
+  { "name": "Wood Cape", "category": "Helmets", "npc_buy_price": 5000 }
+]
