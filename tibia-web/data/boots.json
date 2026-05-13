@@ -1,0 +1,9 @@
+[
+  { "name": "Badger Boots", "category": "Boots", "npc_buy_price": 7500 },
+  { "name": "Glacier Shoes", "category": "Boots", "npc_buy_price": 2500 },
+  { "name": "Lightning Boots", "category": "Boots", "npc_buy_price": 2500 },
+  { "name": "Magma Boots", "category": "Boots", "npc_buy_price": 2500 },
+  { "name": "Metal Spats", "category": "Boots", "npc_buy_price": 2000 },
+  { "name": "Terra Boots", "category": "Boots", "npc_buy_price": 2500 },
+  { "name": "Zaoan Shoes", "category": "Boots", "npc_buy_price": 5000 }
+]
