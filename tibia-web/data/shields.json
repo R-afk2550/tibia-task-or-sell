@@ -1,0 +1,9 @@
+[
+  { "name": "Battle Shield", "category": "Shields", "npc_buy_price": 95 },
+  { "name": "Black Shield", "category": "Shields", "npc_buy_price": 800 },
+  { "name": "Dark Shield", "category": "Shields", "npc_buy_price": 400 },
+  { "name": "Guardian Shield", "category": "Shields", "npc_buy_price": 2000 },
+  { "name": "Mino Shield", "category": "Shields", "npc_buy_price": 3000 },
+  { "name": "Spellbook of Mind Control", "category": "Shields", "npc_buy_price": 13000 },
+  { "name": "Wooden Spellbook", "category": "Shields", "npc_buy_price": 12000 }
+]
