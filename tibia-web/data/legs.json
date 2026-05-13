@@ -1,0 +1,7 @@
+[
+  { "name": "Alloy Legs", "category": "Legs", "npc_buy_price": 11000 },
+  { "name": "Golden Legs", "category": "Legs", "npc_buy_price": 30000 },
+  { "name": "Knight Legs", "category": "Legs", "npc_buy_price": 5000 },
+  { "name": "Plate Legs", "category": "Legs", "npc_buy_price": 115 },
+  { "name": "Wereboar Loincloth", "category": "Legs", "npc_buy_price": 1500 }
+]
